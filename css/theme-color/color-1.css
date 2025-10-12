@@ -8,9 +8,9 @@
 /* ------------------------
     General
 ------------------------*/
-::-moz-selection { background: #2363d5; color: #fff; text-shadow: none; }
-::-moz-selection { background: #2363d5; color: #fff; text-shadow: none; }
-::selection { background: #2363d5; color: #fff; text-shadow: none; }
+::-moz-selection { background: #257a07; color: #fff; text-shadow: none; }
+::-moz-selection { background: #257a07; color: #fff; text-shadow: none; }
+::selection { background: #257a07; color: #fff; text-shadow: none; }
 
 /* ------------------------
     Background Color
@@ -40,7 +40,7 @@
 .tab .nav-tabs .nav-link.active, .tab .nav-tabs .nav-link:hover, .tab .nav-tabs.active > a:focus, .tab .nav-tabs > a:hover,
 .owl-carousel .owl-dots .owl-dot:hover span, .owl-carousel .owl-dots .owl-dot.active span,
 .owl-carousel .owl-nav button.owl-prev:hover, .owl-carousel .owl-nav button.owl-next:hover, .banner-slider.owl-carousel .owl-nav button.owl-prev:hover, .banner-slider.owl-carousel .owl-nav button.owl-next:hover
-{ background-color: #2363d5;}
+{ background-color: #257a07;}
 
 
 /* ------------------------
@@ -69,19 +69,19 @@ a:focus, a:hover,
 .sidebar-links li.active a, .sidebar-links li a:hover,
 .product-price,
 .countdown > li span
-{color: #2363d5;}
+{color: #257a07;}
 
 
 .sidebar-links li.active a, .sidebar-links li a:hover
-{border-left-color: #2363d5;}
+{border-left-color: #257a07;}
 
 .pagination > li.active .page-link, .page-link:hover, .page-link:focus
-{border-color: #2363d5;}
+{border-color: #257a07;}
 
 
 
 @media (max-width: 992px){
-.navbar-nav .nav-link:hover, .navbar-nav .nav-item .nav-link.active, .navbar-nav .nav-item .nav-link.show{background-color: #2363d5}
+.navbar-nav .nav-link:hover, .navbar-nav .nav-item .nav-link.active, .navbar-nav .nav-item .nav-link.show{background-color: #257a07}
 .navbar-nav .nav-link:hover, .navbar-nav .nav-item .nav-link.active,
 .navbar-nav .nav-item .nav-link.show{color: #ffffff}
 }
