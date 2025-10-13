@@ -772,14 +772,14 @@ Extra
 }
 
 .bg-effect:after {
-    background: #dafeff;
+    background: #9ffdaf;
     top: 0;
     content: "";
     position: absolute;
     left: 0;
     z-index: -1;
     height: 100%;
-    width: 50%;
+    width: 100%;
     border-radius: .25rem
 }
 
